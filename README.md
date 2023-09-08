@@ -75,6 +75,7 @@ INSERT INTO packs (pack_id,product_id, qty) VALUES (1020,21,3);
 
 
 A aplicação WEB tem a seguinte aparência:
-![1694212115908](image/README/1694212115908.png)
+![image](https://github.com/AlvarengaGustavo/atualiza-preco/assets/63165906/62611630-128d-433b-8b16-6e23678ea3e9)
+
 
 Você pode enviar o CSV pelo input e pedir para validar os dados, caso os dados estejam no formato correto e atendam todas as regras de cenário o botão de atualizar aparecerá junto com uma tabela. Caso contrário, aparecerá quais regras foram infringidas por quais linhas do CSV.
