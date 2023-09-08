@@ -1,0 +1,15 @@
+.header {
+  background-color: #609a97;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 100;
+}
+
+.title {
+  font-size: 24px;
+  margin: 0;
+}
